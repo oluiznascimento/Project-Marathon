@@ -1,4 +1,4 @@
-#Project Marathon
+# Project Marathon
 
 Esse repositório é uma coleção de mini-projetos/desafios de programação que venho realizando com o intuito de me aperfeiçoar.
 
